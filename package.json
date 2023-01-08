@@ -1,0 +1,16 @@
+{
+  "name": "date-format-latest-2",
+  "version": "1.0.0",
+  "description": "Date Format",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "actuallyakshay",
+  "license": "ISC",
+  "dependencies": {
+    "date-format-latest": "^1.0.0"
+  }
+}
